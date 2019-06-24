@@ -6,6 +6,10 @@ permalink: '/daftar-agen/'
 
 # Daftar Agen Ahlan
 | WILAYAH |	NAMA AGEN |	TELEPON |	NAMA OLSHOP |
+| Jakarta Selatan	| Deby Sandra Putri | 0811149712	| FB : Deby Sandra Putri |
+
+
+
 | DKI JAKARTA ||||
 | Jakarta Selatan	| Deby Sandra Putri | 0811149712	| FB : Deby Sandra Putri |
 |Jakarta Selatan | Kartika Putri | 081316317520 |	IG @enti_room |
