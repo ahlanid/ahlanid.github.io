@@ -35,14 +35,16 @@ bodyClass: page-team-list
           <h2 class="team-name">{{ team.title }}</h2>
           <p class="team-description">{{ team.jobtitle }}</p>
           {% if team.linkedinurl %}
-          <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a> 
+          <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a>        
+          {% endif %}
           {% if team.facebookurl %}
           <a target="_blank" href="{{ team.facebookurl }}">Facebook</a>
+          {% endif %}
           {% if team.whatsappurl %}
           <a target="_blank" href="{{ team.whatsappurl }}">WhatsApp</a>          
-          {% if team.instagramurl %}
-          <a target="_blank" href="{{ team.instagramurl }}">Instagram</a>          
           {% endif %}
+          {% if team.instagramurl %}
+          <a target="_blank" href="{{ team.instagramurl }}">Instagram</a>  
         </div>
         <div class="team-content">{{ team.content }}</div>
       </div>
