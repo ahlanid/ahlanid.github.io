@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Website Resmi Penerbit Ahlan'
+title: 'Jekyll Serif'
 
 collections:
   services:
