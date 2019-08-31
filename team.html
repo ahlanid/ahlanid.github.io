@@ -37,14 +37,18 @@ bodyClass: page-team-list
           {% if team.linkedinurl %}
           <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a>        
           {% endif %}
+          
           {% if team.facebookurl %}
           <a target="_blank" href="{{ team.facebookurl }}">Facebook</a>
           {% endif %}
+          
           {% if team.whatsappurl %}
           <a target="_blank" href="{{ team.whatsappurl }}">WhatsApp</a>          
           {% endif %}
+          
           {% if team.instagramurl %}
-          <a target="_blank" href="{{ team.instagramurl }}">Instagram</a>  
+          <a target="_blank" href="{{ team.instagramurl }}">Instagram</a>
+          {% endif %}
         </div>
         <div class="team-content">{{ team.content }}</div>
       </div>
