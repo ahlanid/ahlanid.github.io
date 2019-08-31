@@ -1,12 +1,15 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Website Resmi Penerbit Ahlan'
 
 collections:
   services:
     output: true
     permalink: /services/:path/
+  agen:
+    output: true
+    permalink: /agen/:path/
   team:
     output: true
     permalink: /team/:path/
