@@ -1,8 +1,9 @@
 ---
 title: 'Deby Sandra Putri'
-image: '/images/team/agen-ahlan.png'
+image: '/images/team/agen.png'
 jobtitle: 'Agen'
 email: ''
+whatsappurl: 'https://wa.me/62811149712/?text=Mbak+Deby+Agen+Ahlan'
 linkedinurl: ''
 ---
 
