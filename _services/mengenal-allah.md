@@ -1,11 +1,9 @@
 ---
-title: 'Accounting'
+title: 'Mengenal Allah'
 image: '/services/noun_591323.png'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Mengenal Allah adalah buku pertama yang diproduksi oleh Ahlan. Buku ini disusun oleh bu Arnida Sharah Auli dengan ilustrator bu DK Wardhani. 
 
 ## Ne verba patulosque numen vix libet
 
