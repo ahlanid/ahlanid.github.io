@@ -1,5 +1,5 @@
 ---
-title: 'Business Advisory'
+title: 'Setial Akhlak Mulia Riyadhus Shalihin'
 image: '/services/default.png'
 ---
 
