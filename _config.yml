@@ -19,7 +19,7 @@ collections:
 
 defaults:
   - scope:
-      type: services
+      type: produks
     values:
       layout: service
       bodyClass: page-services-single
