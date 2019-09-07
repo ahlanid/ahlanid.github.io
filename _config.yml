@@ -4,7 +4,7 @@ permalink: pretty
 title: 'Penerbit Ahlan'
 
 collections:
-  services:
+  produks:
     output: true
     permalink: /services/:path/
   agen:
