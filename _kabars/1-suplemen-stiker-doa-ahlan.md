@@ -1,8 +1,8 @@
 ---
-Title: 'Suplemen Stiker Doa Ahlan'
+title: 'Suplemen Stiker Doa Ahlan'
 ---
 
-[10:43 AM, 9/17/2019] Ary Susanti Istri: Bismillah, 
+Bismillah, 
 
 teman2 Agen dan Reseller, sebelumnya kami menyampaikan terima kasih, jazaakumullah khoiron, atas bantuan teman2, sehingga produk Penerbit Ahlan dapat disebarluaskan dengan baik. 
 Kita berharap taufiq dan rahmat Allah menyertai semua kegiatan kita, semoga yg kita lakukan dapat bermanfaat untuk orang banyak. Aamiin. 
@@ -15,8 +15,7 @@ Seperti misalnya kitab hadits bukhori, kitab riyadhus sholihin, atau  seperti ha
 Demikian pula kami di Penerbit Ahlan, ada kesalahan juga dalam produk-produk kami. Ini karena kesalahan dan kekurangan ilmu pada kami. Salah satunya adalah kesalahan pada stiker Doa Setelah Makan. Lafal doa dalam bahasa Arab sudah benar, namun pada transliterasi latin terdapat kekurangan satu kata. Tertulis: min ghairi wa laa quwwah, seharusnya adalah min ghairi haulin wa laa quwwa.
 (gambar kami sertakan). 
 
-Kami sudah mencetak stiker pengganti untuk kesalahan tersebut. Teman2 bisa memperolehnya pada agen dan reseller tempat teman2 membeli dahulu. 
-Stiker pengganti ini, akan dikirimkan berbarengan dengan pembelian berikutnya pada agen/reseller tempat memesan. 
+Kami sudah mencetak stiker pengganti untuk kesalahan tersebut. Teman-teman bisa memperolehnya pada agen dan reseller tempat teman2 membeli dahulu. Stiker pengganti ini, akan dikirimkan berbarengan dengan pembelian berikutnya pada agen/reseller tempat memesan. 
 
 Atau, untuk teman2 yg belum berencana memesan kembali, bisa melakukan pengunduhan stiker yg benarnya, pada link yg akan kami infokan kemudian. 
 
