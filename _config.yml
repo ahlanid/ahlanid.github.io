@@ -22,7 +22,7 @@ collections:
 
 defaults:
   - scope:
-      type: produks
+      type: produks, kabars
     values:
       layout: service
       bodyClass: page-services-single
