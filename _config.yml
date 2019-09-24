@@ -7,6 +7,9 @@ collections:
   produks:
     output: true
     permalink: /services/:path/
+  kabars:
+    output: true
+    permalink: /kabar/:path/
   agen:
     output: true
     permalink: /agen/:path/
