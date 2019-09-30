@@ -23,3 +23,6 @@ Sebagai bentuk kompensasi, insyaaAllah akan kami upload printable tambahan untuk
 
 Demikian pemberitahuan kami, mohon maaf atas kekurangan kami. 
 Sampai jumpa dengan produk Ahlan selanjutnya ^_^
+
+[Download Workbook Zikir dan Doa](assets/docs/workbook%20zikir%20dan%20doa.pdf)
+[Download Kunci Jawaban Workbook Zikir dan Doa](assets/docs/kunci%20jawaban%20workbook%20zikir%20dan%20doa.pdf)
