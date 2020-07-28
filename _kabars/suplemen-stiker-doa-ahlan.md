@@ -1,5 +1,5 @@
 ---
-title: 'Suplemen Stiker Doa Ahlan'
+title: Suplemen Stiker Doa Ahlan
 sequence: 2
 ---
 

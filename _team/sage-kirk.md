@@ -1,8 +1,8 @@
 ---
-title: 'Sage Kirk'
-image: '/images/team/sage-kirk-485982-unsplash.jpg'
-jobtitle: 'Accountant'
-email: 'sage@test.com'
+title: Sage Kirk
+image: "/images/team/sage-kirk-485982-unsplash.jpg"
+jobtitle: Accountant
+email: sage@test.com
 linkedinurl: ''
 ---
 

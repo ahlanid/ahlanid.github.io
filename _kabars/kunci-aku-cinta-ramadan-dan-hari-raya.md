@@ -1,5 +1,5 @@
 ---
-title: 'Kunci Jawaban Aku Cinta Ramadan dan Hari Raya'
+title: Kunci Jawaban Aku Cinta Ramadan dan Hari Raya
 sequence: 1
 ---
 

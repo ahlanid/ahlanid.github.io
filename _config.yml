@@ -1,45 +1,56 @@
-baseurl: ''
-exclude: ['README.md']
-permalink: pretty
-title: 'Penerbit Ahlan'
-
+---
+title: Penerbit Ahlan
+timezone: UTC
 collections:
-  produks:
-    output: true
-    permalink: /services/:path/
-  kabars:
-    output: true
-    permalink: /kabar/:path/
   agen:
+    title: Agen
     output: true
-    permalink: /agen/:path/
+    permalink: "/agen/:path/"
+  kabars:
+    title: Kabars
+    output: true
+    permalink: "/kabar/:path/"
+  posts:
+    title: Posts
+    output: true
+  produks:
+    title: Produks
+    output: true
+    permalink: "/services/:path/"
   team:
+    title: Team
     output: true
-    permalink: /team/:path/
+    permalink: "/team/:path/"
   testimonials:
+    title: Testimonials
     output: true
-    permalink: /testimonials/:path/
-
+    permalink: "/testimonials/:path/"
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  - scope:
-      type: produks
-    values:
-      layout: service
-      bodyClass: page-services-single
-  - scope:
-      type: kabars
-    values:
-      layout: service
-      bodyClass: page-services-single
-  - scope:
-      path: 'images'
-    values:
-      image: true
-
+- scope:
+    path: ''
+    type: produks
+  values:
+    layout: service
+    bodyClass: page-services-single
+- scope:
+    path: ''
+    type: kabars
+  values:
+    layout: service
+    bodyClass: page-services-single
+- scope:
+    path: images
+  values:
+    image: true
+baseurl: ''
+exclude:
+- README.md
+permalink: pretty
 sass:
-  style: compact # possible values: nested expanded compact compressed
-
+  style: compact
 google_analytics_id: UA-35557865-2
-
 plugins:
-  - jekyll-environment-variables
+- jekyll-environment-variables

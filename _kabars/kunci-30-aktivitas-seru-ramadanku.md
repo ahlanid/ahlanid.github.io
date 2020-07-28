@@ -1,5 +1,5 @@
 ---
-title: 'Kunci Jawaban 30 Aktivitas Seru Ramadanku'
+title: Kunci Jawaban 30 Aktivitas Seru Ramadanku
 sequence: 1
 ---
 

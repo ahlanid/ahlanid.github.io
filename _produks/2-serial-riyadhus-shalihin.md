@@ -1,6 +1,6 @@
 ---
-title: 'Serial Akhlak Mulia Riyadhus Shalihin'
-image: '/services/default.png'
+title: Serial Akhlak Mulia Riyadhus Shalihin
+image: "/services/default.png"
 ---
 
 Serial Akhlak Mulia Riyadhus Shalihin terdiri dari:
